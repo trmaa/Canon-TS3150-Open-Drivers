@@ -1,1 +1,6 @@
 libdbusmenu-gtk2
+
+hplip
+	sudo hp-setup
+system-config-printer
+	openit to add printer
