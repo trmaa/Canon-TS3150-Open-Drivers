@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = Vui lòng đọc kỹ Thỏa thuận Cấp phép sau đây và đồng ý với các điều khoản của Thỏa thuận để tiếp tục cài đặt.
+str_Button_license = Thỏa Thuận Cấp Phép Người Dùng Cuối Cùng
+str_Button_privacy = Chính sách Bảo mật
+str_checkButton = Tôi đồng ý với Thỏa thuận Cấp phép Người dùng Cuối cùng và Chính sách Bảo mật
+str_installButton = Lắp đặt
+str_finishLabel = Hoàn tất Cài đặt
+str_doneButton = Đã xong

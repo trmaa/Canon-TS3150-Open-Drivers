@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = Per proseguire con l'installazione, leggere il seguente contratto e accettare i relativi termini.
+str_Button_license = Accordo di Licenza Finale
+str_Button_privacy = Informativa sulla privacy
+str_checkButton = Accetto l'Accordo di licenza per l'utente finale e l'Informativa sulla privacy
+str_installButton = Installazione
+str_finishLabel = Installazione completata
+str_doneButton = Fine

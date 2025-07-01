@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = Přečtěte si prosím následující smlouvu a souhlasíte s Podmínkami Smlouvy o pokračování instalace.
+str_Button_license = Licenční Smlouva S Koncovým Uživatelem
+str_Button_privacy = Zásady Ochrany Osobních Údajů
+str_checkButton = Souhlasím s Licenční Smlouvou s Koncovým Uživatelem a Zásadami Ochrany Osobních Údajů
+str_installButton = Nainstalovat
+str_finishLabel = Instalace Dokončena
+str_doneButton = Hotovo

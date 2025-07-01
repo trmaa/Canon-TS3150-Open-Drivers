@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = โปรดอ่านข้อตกลงต่อไปนี้ อย่างระมัดระวังคุณต้องยอมรับข้อตกลงเหล่านี้ ก่อน ที่จะติดตั้ง 
+str_Button_license = ข้อตกลงการอนุญาตสิทธิ์ผู้ใช้ขั้นสุดท้าย  
+str_Button_privacy = นโยบายความเป็นส่วนตัว  
+str_checkButton = ฉันเห็นด้วยกับ "ข้อตกลงการอนุญาตผู้ใช้ขั้นสุดท้าย" และ "นโยบายความเป็นส่วนตัว"  
+str_installButton =  ติดตั้ง  
+str_finishLabel = การติดตั้งเสร็จสมบูรณ์  
+str_doneButton = เรียบร้อยแล้ว 

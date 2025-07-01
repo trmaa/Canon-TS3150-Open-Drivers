@@ -1,0 +1,60 @@
+Adatvédelmi szabályzat 
+　　Fontos utasítások, kérjük figyelmesen olvassa el.
+　　A Zhuhai Pantum Electronics Co., Ltd. („PANTUM”, „MI”) és a PANTUM leányvállalatai (a PANTUM leányvállalatai minden olyan vállalkozást jelent, amely közvetlenül vagy közvetve irányítja a PANTUM-ot vagy a PANTUM irányítása alatt áll, vagy amely lényeges befolyási kapcsolatban áll a PANTUM-mal, beleértve, de nem kizárólagosan a PANTUM leányvállalatait, fióktelepeit és ellenőrzést gyakorló tulajdonosokat), valamint a PANTUM forgalmazói vagy kereskedői, valamint a PANTUM (a PANTUM felhatalmazott szolgáltatója minden olyan szervezet, amelyet a PANTUM jelenleg vagy a jövőben felhatalmazott arra, hogy szolgáltatást nyújtson a PANTUM ügyfelei számára) hivatalos szolgáltatói megértik, mennyire fontos az Ön adatainak védelme, és teljes mértékben elkötelezettek azok védelme mellett.Szeretnénk tájékoztatni Önt arról, hogyan gyűjtjük és kezeljük az Ön személyes adatait és információit a jelen Adatvédelmi szabályzaton (a továbbiakban: „jelen Szabályzat”) szerint. 
+　　TÁJÉKOZTATJUK, HOGY EZ A SZABÁLYZAT A WEBHELYRE/RENDSZERRE/SZOFTVERRE VONATKOZIK. HA NEM OLVASSA EL ÉS NEM ÉRTI MEGI EZT AZ IRÁNYELVET, VAGY/ÉS HA NEM FOGADJA EL EZT AZ SZABÁLYZATOT, KÉRJÜK, NE FÉRJEN HOZZÁ, NE HASZNÁLJA VAGY NEM BÖNGÉSSZE A WEBHELYET/RENDSZERT/SZOFTVERT, ÉS ADJA MEG SZEMÉLYES ADATAIT A WEBHELYEN/RENDSZERNEK/SZOFTVERNEK.FENNTARTJUK AZT A JOGOT, HOGY AZ ÖN KIFEJEZETETT HOZZÁJÁRULÁSÁRA VAN SZÜKSÉGÜNK A JELEN SZABÁLYZAT ELFOGADÁSÁHOZ, ÉS HA ÖN MEGTAGADJA EZEN HOZZÁJÁRULÁS MEGADÁSÁT, ELŐFORDULHAT, HOGY NEM ÉRI EL A WEBHELYET/RENDSZERT/SZOFTVERT. 
+　　
+1. A Személyes Adatok Gyűjtése és Feldolgozása
+1.1 Amikor szolgáltatásokat nyújtunk Önnek, a webhely/rendszer/szoftver/MI gyűjthetjük, feldolgozhatjuk és/vagy tárolhatjuk az Ön személyes adatait és/vagy természetes személyek személyes adatait, amelyekkel Ön törvényesen rendelkezhet (a továbbiakban együttesen: „Személyes adatai”).
+1.2 Ez a webhely/rendszer/szoftver/MI csak az Ön számára nyújtott szolgáltatások nyújtásához szükséges Személyes adatait gyűjtjük. 
+1.3 Ez a webhely/rendszer/szoftver/MI az Ön Személyes adatait szolgáltatás nyújtása céljából használjuk fel és dolgozzuk fel.
+1.4 Ha nem adja meg a fent említett szükséges információkat, az akadályozhatja szolgáltatásaink használatát, vagy befolyásolhatja azok normál használatát. 
+
+2.Az Információk Közzététele
+2.1 Az Önnek szükséges szolgáltatások nyújtása érdekében Ön beleegyezik abba, hogy az Személyes adatait a következő szervezeteknek adjuk át:
+　　* PANTUM leányvállalatai;
+　　* PANTUM forgalmazói vagy kereskedői;
+　　* PANTUM hivatalos szolgáltatói; 
+　　* Egyéb felek a vállalati ügyletekkel kapcsolatban.Egyesülés vagy átruházás részeként az Ön adatait harmadik félnek kiadhatjuk. 
+
+2.2 Ön beleegyezik abba, hogy az alábbi feltételek mellett nyilvánosságra hozhatjuk az Ön Személyes adatait:
+　　* a törvény betartása érdekében vagy válaszként kötelező jogi eljárásra (például házkutatási parancs vagy más bírósági végzés);
+　　* a PANTUM, a PANTUM leányvállalatai, a PANTUM üzleti partnerei, a PANTUM hivatalos szolgáltatói vagy a PANTUM ügyfelei törvényes jogainak és érdekeinek vagy biztonságának védelme érdekében.Ez a cikk érvénytelen lehet egyes országokban (régiókban) vagy joghatóságokban, de előfordulhat, hogy ez a cikk nem vonatkozik Önre;
+　　* az Ön Személyes adatainak megosztása harmadik féllel az Ön hozzájárulásával vagy kérésének megfelelően. 
+
+2.3 Ha szükséges, a webhelyen/rendszeren/szoftveren/MI általunk gyűjtött információkat tárolhatjuk, feldolgozhatjuk és továbbíthatjuk bármely olyan országok között, ahol üzleti tevékenységünket végezzük, hogy ezeket az információkat felhasználhassuk az Ön számára nyújtott szolgáltatások során jelen Szabályzatnak megfelelően.Ön kifejezetten hozzájárul Személyes adatainak ilyen jellegű továbbításához. 
+
+3.Személyes Adatok Elérése, Módosítása, Megújítása és Törlése
+　　3.1 Önnek bármikor joga van hozzáférni, módosítani, megújítani és törölni az Ön által a webhelyen/rendszeren/szoftveren/PANTUM-on megadott Személyes adatait. Azonban Ön tisztában van azzal, hogy az Ön Személyes adatainak módosítása és/vagy törlése befolyásolhatja a webhelyről/rendszerről/szoftverről/PANTUM-ról igénybe vett szolgáltatásokat.Az Ön Személyes adataihoz való hozzáférés, módosítás, megújítás és törlés hatóköre és módja az Ön által használt PANTUM termékektől és szolgáltatásoktól függ.
+　　3.2 Egyebek
+　　3.2.1 Ha nem tudja elérni/sikertelenül érni el, módosítani vagy törölni az Ön Személyes adatait a rendszer helyi működtetésével, kérjük, küldje el vonatkozó igényeit és kérdéseit e-mail címünkre, és MI a lehető leghamarabb válaszolunk Önnek.
+　　3.2.2 Ha a velünk való közvetlen kapcsolatfelvétel útján szeretné elérni, módosítani vagy törölni az általunk gyűjtött és tárolt Személyes adatait, kérjük, küldje el vonatkozó kéréseit e-mail címünkre, és mi a lehető leghamarabb válaszolunk az Ön igényeire.Azonban, kérjük, vegye figyelembe, hogy ha ténylegesen nem gyűjtjük és/vagy nem tároljuk az Ön Személyes adatait, akkor nem tudjuk teljesíteni a fenti kéréseit, de ésszerű időn belül válaszolunk Önnek.
+　　3.2.3 Amikor hozzáfér, módosítja vagy törli az Ön Személyes adatait, fiókja és/vagy információi biztonságának védelme érdekében hitelesítést kérhetünk Öntől.
+　　3.2.4 Időszakosan felülvizsgálhatjuk az összes általunk gyűjtött információt, és egyoldalúan eltávolíthatjuk azokat az információkat, amelyek nem szükségesek az Ön számára nyújtott szolgáltatások nyújtásához. 
+
+4.Hozzájárulás Visszavonása 
+　　Önnek jogában áll visszavonni a Személyes adatai kezeléséhez korábban adott hozzájárulását, és ha úgy dönt, e-mailben értesíthet bennünket. Abbahagyjuk az Ön korábban megadott hozzájárulásán alapuló Személyes adatainak feldolgozását.Azonban felhívjuk figyelmét, hogy az Ön hozzájárulásának visszavonása befolyásolhatja a tőlünk igénybe vett szolgáltatásokat. 
+
+5.Az Ön Döntése
+　　A PANTUM lehetőséget biztosíthat Önnek annak eldöntésére, hogy Személyes adatait más célra használhatja-e fel, mint amelyre azokat eredetileg gyűjtötte, vagy amelyet Ön később engedélyezett. 
+　　
+6.Az Ön Személyes Adatainak Védelme
+　　Az Ön Személyes adataihoz való jogosulatlan hozzáférés, visszaélés, nyilvánosságra hozatal vagy megváltoztatás elleni védelem érdekében a PANTUM ésszerű és megfelelő fizikai, műszaki és adminisztratív eljárásokat alkalmaz az általa gyűjtött és feldolgozott információk védelme érdekében.Azonban kérjük, vegye figyelembe, hogy bár ésszerű lépéseket teszünk az Ön adatainak védelme érdekében, egyetlen webhely, internetes adatátvitel, számítógépes rendszer vagy vezeték nélküli kapcsolat sem teljesen biztonságos. 
+　　
+7.A Gyermekek Magánéletének Védelme
+　　A PANTUM tudatosan nem gyűjt adatokat 13 évnél fiatalabb (vagy a vonatkozó joghatóságban ezzel egyenértékű alsó korhatárig) gyermekektől, és webhelyei nem célozzák meg a 13 éven aluliakat (vagy a vonatkozó joghatóságban ezzel egyenértékű alsó korhatárt).Ha tudomásunkra jut, hogy egy 13 évesnél fiatalabb (vagy a vonatkozó joghatóságban ezzel egyenértékű alsó korhatárnál fiatalabb) gyermek személyes adatokat adott meg nekünk, akkor a vonatkozó jogszabályoknak megfelelően töröljük azokat.
+
+8.Más Webhelyekre Mutató Hivatkozások
+　　Ezen a webhelyen / rendszeren / szoftveren néhány oldal hivatkozásokat tartalmazhat harmadik fél webhelyeire / rendszereire / szoftvereire. A PANTUM nem támogatja és nem szabályozza ezen webhelyek / rendszerek / szoftverek adatvédelmi viselkedését vagy tartalmát.Javasoljuk, hogy figyelmesen olvassa el az Ön által meglátogatott harmadik webhely / rendszer / szoftver minden adatvédelmi szabályzatát.
+　　
+9.További információ
+　　E-mail címünk: info@pantum.com.Ha bármilyen kérdése vagy aggálya van a jelen Szabályzattal kapcsolatban, kérjük, jelezze felénk e-mailben.
+
+10.A jog alkalmazása és a vitarendezés
+　　10.1 Erre a Szabályzatra a Kínai Népköztársaság törvényei az irányadók (kivéve Hongkong, Makaó és Tajvan).
+　　10.2 Miután elfogadta, hogy magára nézve kötelezőnek ismeri el a jelen Szabályzatot, az Ön és a PANTUM között a jelen Szabályzatból eredő minden vitát mindkét fél baráti tárgyalások útján rendez.Ha a tárgyalás sikertelen, bármelyik félnek jogában áll keresetet benyújtani a PANTUM székhelye szerinti bírósághoz.
+
+11.Részleges Érvényesség
+　　Ha bármely illetékes bíróság vagy törvényszék a jelen Szabályzat bármely rendelkezését részben vagy egészben jogellenesnek vagy végrehajthatatlannak nyilvánítja, az ilyen rendelkezés elválasztható és független a jelen Szabályzat többi rendelkezésétől és érvénytelennek kell tekinteni az ilyen bíróság vagy törvényszék joghatóságán belül, de az összes többi rendelkezés és a teljes szabályzat érvényességét ez nem érinti. 
+　　
+12.Jelen Szabályzat Változásai
+　　Annak érdekében, hogy jobb szolgáltatásokat nyújthassunk Önnek és üzletünk fejlesztése érdekében, a PANTUM időben frissíti ezt a Szabályzatot. Miután azonban elfogadta a Szabályzatot, az Ön kifejezett beleegyezése nélkül, MI nem csökkentjük az Ön által elfogadott Adatvédelmi szabályzatban foglalt jogait.Az Adatvédelmi Szabályzat frissített változatát a PANTUM hivatalos webhelyén adjuk ki, és kérjük, látogassa meg a PANTUM hivatalos webhelyét, hogy lépést tartson a legújabb adatvédelmi szabályzattal. 

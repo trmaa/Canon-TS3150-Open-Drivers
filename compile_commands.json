@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I.",
+      "-o",
+      "impresora",
+      "main.cpp"
+    ],
+    "directory": "/home/pablo/impresora/",
+    "file": "/home/pablo/impresora/main.cpp",
+    "output": "/home/pablo/impresora/impresora"
+  }
+]

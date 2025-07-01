@@ -1,0 +1,30 @@
+#!/bin/bash
+
+SHELL_PATH="$(cd "$(dirname "$0")"; pwd)"
+OS_BITS=$(getconf LONG_BIT)
+
+cd "$SHELL_PATH"
+dpkg -l | grep pantum &> /dev/null
+if [ $? -eq 0 ];then
+    sudo dpkg -P pantum-series &> /dev/null
+    sudo dpkg -P pantum-p2800-p3300-series &> /dev/null
+    sudo dpkg -P pantum-p2800-p3300-m6700-m7050-m7100-series &> /dev/null
+    sudo dpkg -P pantum-m6500-series &> /dev/null
+    sudo dpkg -P pantum-p3500-series &> /dev/null
+    sudo dpkg -P pantum-p3500-series-ps &> /dev/null
+    sudo dpkg -P pantum-p2500-series &> /dev/null
+    sudo dpkg -P pantum-p3000-series &> /dev/null
+    sudo dpkg -P pantum-p3000-series-ps &> /dev/null
+    sudo dpkg -P pantum-p2000-series  &> /dev/null
+fi
+
+if [ $OS_BITS -eq 32 ];then
+    echo "32bit system"
+    sudo dpkg -i *i386.deb
+else
+    echo "64bit system"
+    sudo dpkg -i *64.deb
+fi
+
+sudo udevadm control --reload-rules
+sudo udevadm trigger

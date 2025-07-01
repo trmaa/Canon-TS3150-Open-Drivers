@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = 次の使用契約書をよくお読みになり、契約条項に同意してインストールを実行してください。
+str_Button_license = 使用許諾契約書
+str_Button_privacy = プライバシーポリシー
+str_checkButton = <a>エンドユーザーライセンス合意書</a>と
+str_installButton = インストール
+str_finishLabel = インストールが完了しました
+str_doneButton = 完了

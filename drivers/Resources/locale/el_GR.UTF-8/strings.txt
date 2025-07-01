@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = Διαβάστε την ακόλουθη Συμφωνία και συμφωνήστε με τους όρους της Συμφωνίας για να συνεχίσετε την εγκατάσταση.
+str_Button_license = Συμφωνητικό Άδειας Χρήσης Τελικού Χρήστη
+str_Button_privacy = Πολιτική Απορρήτου
+str_checkButton = Συμφωνώ με την Άδεια Χρήσης Τελικού Χρήστη και την Πολιτική Απορρήτο
+str_installButton = Εγκαθιστώ
+str_finishLabel = Η εγκατάσταση Ολοκληρώθηκε
+str_doneButton = Ολοκληρώθηκε

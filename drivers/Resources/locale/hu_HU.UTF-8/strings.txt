@@ -1,0 +1,8 @@
+str_processName = Pantum Driver Installer
+str_noticeLabel = Kérjük, olvassa el a következő Szerződést, és fogadja el a Szerződés feltételeit a telepítés folytatásához.
+str_Button_license = Végfelhasználói Licencszerződ
+str_Button_privacy = Adatvédelmi szabályzat 
+str_checkButton = Elfogadom a Végfelhasználói Licencszerződést és az Adatvédelmi Szabályzatot
+str_installButton = Telepítés
+str_finishLabel = Telepítés Befejezve
+str_doneButton = Kész

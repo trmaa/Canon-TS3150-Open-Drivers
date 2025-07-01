@@ -1,0 +1,8 @@
+str_processName = Pantum drayver Quraşdır
+str_noticeLabel = Zəhmət olmasa, quraşdırmaya davam etmək üçün sıradakı Lisenziya Razılaşmasını diqqətlə oxuyun və Razılaşmanın şərtlərinə razılaşın.
+str_Button_license = Son İstifadəçi ilə Lisenziya Razılaşması
+str_Button_privacy = Məxfilik Siyasəti
+str_checkButton = Mən Son İstifadəçi Lisenziyası Müqaviləsi və Məxfilik Siyasəti ilə razıyam
+str_installButton = Quraşdır
+str_finishLabel = Quraşdırma Tamamlandı
+str_doneButton = Bitti
